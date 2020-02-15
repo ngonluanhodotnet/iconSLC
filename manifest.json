@@ -1,0 +1,38 @@
+{
+  "name": "sống Lời Chúa",
+  "short_name": "sống Lời Chúa",
+  "start_url": "https://songloichua.ngonluanho.net/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "chia sẻ Lời Chúa hằng ngày",
+  "icons": [{
+    "src": "https://lh6.googleusercontent.com/-hyPYNXB312k/Xke_hK4nZqI/AAAAAAAAIB0/IHf1cUrhxUQzpEAhYPq894FqyGd3l4hCACNcBGAsYHQ/s48/songLoiChua.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-hyPYNXB312k/Xke_hK4nZqI/AAAAAAAAIB0/IHf1cUrhxUQzpEAhYPq894FqyGd3l4hCACNcBGAsYHQ/s72/songLoiChua.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-hyPYNXB312k/Xke_hK4nZqI/AAAAAAAAIB0/IHf1cUrhxUQzpEAhYPq894FqyGd3l4hCACNcBGAsYHQ/s96/songLoiChua.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-hyPYNXB312k/Xke_hK4nZqI/AAAAAAAAIB0/IHf1cUrhxUQzpEAhYPq894FqyGd3l4hCACNcBGAsYHQ/s144/songLoiChua.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-hyPYNXB312k/Xke_hK4nZqI/AAAAAAAAIB0/IHf1cUrhxUQzpEAhYPq894FqyGd3l4hCACNcBGAsYHQ/s168/songLoiChua.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-hyPYNXB312k/Xke_hK4nZqI/AAAAAAAAIB0/IHf1cUrhxUQzpEAhYPq894FqyGd3l4hCACNcBGAsYHQ/s192/songLoiChua.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-hyPYNXB312k/Xke_hK4nZqI/AAAAAAAAIB0/IHf1cUrhxUQzpEAhYPq894FqyGd3l4hCACNcBGAsYHQ/s1600/songLoiChua.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
